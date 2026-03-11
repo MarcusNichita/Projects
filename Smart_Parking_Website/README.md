@@ -1,0 +1,1 @@
+This project is built around a SQL database. The website allows users to log in as either an administrator or a standard user. Depending on their role, they are granted specific permissions. This serves as the foundation for my Bachelor's thesis.
