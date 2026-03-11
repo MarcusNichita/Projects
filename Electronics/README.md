@@ -1,0 +1,3 @@
+1.Buck Converter: Based on a predefined inductor value (L), I calculated the required specifications for all remaining circuit components. Under faculty guidance, I designed and assembled a functional DC-DC Buck Converter.    Post-construction testing confirmed that the measured current values closely aligned with my theoretical calculations. 
+
+2.Lie Detector: In a collaborative effort, I co-developed an Arduino-based polygraph. The system utilizes an Arduino UNO and various sensors to monitor physiological indicators, specifically heart rate and Galvanic Skin       Response (GSR). The device detects deviations from a pre-measured baseline to identify potential physiological stress markers.
