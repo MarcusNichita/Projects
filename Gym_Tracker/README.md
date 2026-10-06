@@ -1,5 +1,7 @@
 Gym Tracker is a Python-based desktop application designed for logging workouts, tracking progress, and managing fitness routines. Built with CustomTkinter for a modern user interface and SQLite for robust local data storage, the application operates as a standalone, portable executable. It adapts dynamically to user input, offering custom exercise libraries, intelligent equipment logic, and automated workout categorization.
 
+Key Features:
+
 Secure Local Accounts: User authentication powered by bcrypt ensures personal data remains private and secure on your local machine.
 
 Dynamic Workout Logging: Create and manage custom muscle groups, exercises, and equipment. The interface automatically adapts input fields based on the selected exercise and equipment type.
